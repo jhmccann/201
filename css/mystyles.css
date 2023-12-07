@@ -1,9 +1,11 @@
 .mb-2{
-    width: 500px;
+    width: 250px;
+    height: 250px;
 }
 .darkcolor{
-    background-color: rgb(117, 213, 117) !important;
+    background-color: rgb(74, 137, 74) !important;
 }
 .text-primary{
-    color: rgb(117, 213, 117);
+    color: rgb(74, 137, 74) !important;
 }
+
